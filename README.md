@@ -9,10 +9,10 @@ For this project i am going to be creating a website for a company called Invasi
 The aim of this project is to attract ussers to apply to go and stay a couple weeks in a different environment.
 
 ## Constraints
-
+A constraints is the time we have to complete the project.
 
 ## Benifits
-
+A benefit is the planning and gathering the requirements that we need to include at the bbegining of the project.
 
 ## Nature of interactivity
 
